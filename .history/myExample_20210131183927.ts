@@ -23,3 +23,4 @@ enum Some {
 let twentyseven = Some.pow
 let dontknow = Some.something
 console.log(twentyseven)
+console.log(dontknow)
